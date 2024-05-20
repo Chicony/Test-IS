@@ -1,2 +1,7 @@
-bitrix
+www/bitrix
 .DS_Store
+.idea
+.vscode
+.fleet
+logs
+.env
